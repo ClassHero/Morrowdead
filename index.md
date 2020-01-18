@@ -13,7 +13,7 @@
 ### trader_post
 This is the store. They trader doesn't always have everything. He has a secret stash too.
 
-``
+```
 Store items
 
 Repair kit
@@ -36,7 +36,7 @@ Pumped up shells
 Heavy piercer bullets
 Super 7.62
 
-``
+```
 
 ### food
 - eggs
