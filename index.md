@@ -26,6 +26,8 @@ This is the store. The trader doesn't always have everything. He has a secret st
 ### crates
 Crates are defended by zombies. The more special the crate is, the more zombies surround it and the stronger they are.
 
+**CRATE_TYPES**
+
 ```
 Store items
 
@@ -86,3 +88,8 @@ every 0.200 brown, gray, green, light_blue, pink
 
 ### integrate cheats
 for testing purposes
+
+**commands**
+SPAWN <NUMBEROF> FISH
+GIVE <NUMBER> HEALTH
+STAMINA INFINITE <STATE>
