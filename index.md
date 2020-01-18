@@ -82,8 +82,8 @@ Super 7.62
 - Day/Night Cycle
 - Seasons
 - Fog, Rain, Snow, Leaves
-Occasional hordes running around
-You die once, you are dead (except if you bought RESURRECTION_STONE)
+- Occasional hordes running around
+- You die once, you are dead (except if you bought RESURRECTION_STONE)
 
 ### pond
 - can fill up water bottles
@@ -93,13 +93,15 @@ You die once, you are dead (except if you bought RESURRECTION_STONE)
 there has to be special fishes for fishing to be cool
 
 ### weapon float (quality)
-1.000 - 0.000
-every 0.200 brown, gray, green, light_blue, pink
+```
+- 1.000 - 0.000
+- every 0.200 brown, gray, green, light_blue, pink
+```
 
 ### integrate cheats
 for testing purposes
 
 **commands**
-SPAWN <NUMBEROF> FISH
-GIVE <NUMBER> HEALTH
-STAMINA INFINITE <STATE>
+- SPAWN <NUMBEROF> FISH
+- GIVE <NUMBER> HEALTH
+- STAMINA INFINITE <STATE>
