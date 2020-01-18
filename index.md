@@ -16,22 +16,24 @@ This is the store. They trader doesn't always have everything. He has a secret s
 ```
 Store items
 
+-- Medical --
 Repair kit
 Medkit
 Bandage
 Antibiotic
+
+-- Special --
 Name colorer
 Name changer
 Pet name changer
 
-*Seeds*
+--Seeds--
 pumpkin
 potato
 
+--Boosters--
 
-*Boosters*
-
-*Bullets*
+--Bullets--
 Pumped up shells
 Heavy piercer bullets
 Super 7.62
