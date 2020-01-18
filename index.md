@@ -11,17 +11,17 @@
   - for upgrading weapon floats (random value from -0.020 to +0.050 is given per UPGRADE_TRY)
   
 ### storage
-player_inventory 6 slots
-light_backpack 4 slots
-op_backpack 4 slots
-chest 4 slots
+- player_inventory 6 slots
+- light_backpack 4 slots
+- op_backpack 4 slots
+- chest 4 slots
   
 ### crates
 Crates are defended by zombies. The more special the crate is, the more zombies surround it and the stronger they are.
 
 **CRATE_TYPES**
-wooden_crate
-bronze_crate
+- wooden_crate
+- bronze_crate
   
 ### trader_post
 This is the store. The trader doesn't always have everything. He has a secret stash too.
@@ -78,10 +78,10 @@ Super 7.62
   - damaging zombies
 
 ### environment
-Short days (adjustable day/night duration)
-Day/Night Cycle
-Seasons
-Fog, Rain, Snow, Leaves
+- Short days (adjustable day/night duration)
+- Day/Night Cycle
+- Seasons
+- Fog, Rain, Snow, Leaves
 Occasional hordes running around
 You die once, you are dead (except if you bought RESURRECTION_STONE)
 
