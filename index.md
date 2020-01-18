@@ -102,6 +102,8 @@ there has to be special fishes for fishing to be cool
 for testing purposes
 
 **commands**
-- SPAWN <NUMBEROF> FISH
-- GIVE <NUMBER> HEALTH
-- STAMINA INFINITE <STATE>
+```
+SPAWN NUMBEROF FISH
+GIVE NUMBER HEALTH
+STAMINA INFINITE <STATE>
+```
