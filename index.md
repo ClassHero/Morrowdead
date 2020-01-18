@@ -6,6 +6,37 @@
 - water
 - infected
 - temperature
+- levels (tracking progress)
+- experience
+  - for upgrading weapon floats (random value from -0.020 to +0.050 is given per UPGRADE_TRY)
+  
+### trader_post
+This is the store. They trader doesn't always have everything. He has a secret stash too.
+
+``
+Store items
+
+Repair kit
+Medkit
+Bandage
+Antibiotic
+Name colorer
+Name changer
+Pet name changer
+
+*Seeds*
+pumpkin
+potato
+
+
+*Boosters*
+
+*Bullets*
+Pumped up shells
+Heavy piercer bullets
+Super 7.62
+
+``
 
 ### food
 - eggs
