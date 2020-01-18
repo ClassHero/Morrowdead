@@ -19,7 +19,9 @@ chest 4 slots
 ### crates
 Crates are defended by zombies. The more special the crate is, the more zombies surround it and the stronger they are.
 
-**CRATE_TYPES**  
+**CRATE_TYPES**
+wooden_crate
+bronze_crate
   
 ### trader_post
 This is the store. The trader doesn't always have everything. He has a secret stash too.
@@ -67,6 +69,7 @@ Super 7.62
 - berries
 - frog meat
 - water bottle
+- mineral water
 
 ### tools
 - fishing rod (fishing)
@@ -81,6 +84,13 @@ Seasons
 Fog, Rain, Snow, Leaves
 Occasional hordes running around
 You die once, you are dead (except if you bought RESURRECTION_STONE)
+
+### pond
+- can fill up water bottles
+- can be used for fishing
+
+**FISH_KINDS**
+there has to be special fishes for fishing to be cool
 
 ### weapon float (quality)
 1.000 - 0.000
