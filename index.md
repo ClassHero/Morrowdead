@@ -103,10 +103,10 @@ for testing purposes
 
 **commands**
 ```
-NUMBEROF, NUMBER should be between 1 and 100.
-STATE should be ON or OFF.
+_NUMBEROF_, _NUMBER_ should be between 1 and 100.
+_STATE_ should be ON or OFF.
 
-- SPAWN NUMBEROF FISH
-- GIVE NUMBER HEALTH
-- STAMINA INFINITE STATE
+- SPAWN _numberof_ FISH
+- GIVE _number_ HEALTH
+- STAMINA INFINITE _state_
 ```
