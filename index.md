@@ -106,7 +106,7 @@ for testing purposes
 _NUMBEROF_, _NUMBER_ should be between 1 and 100.
 _STATE_ should be ON or OFF.
 
-- SPAWN _numberof_ FISH
-- GIVE _number_ HEALTH
-- STAMINA INFINITE _state_
+- spawn _NUMBEROF_ fish
+- give _NUMBER_ health
+- stamina infinite _STATE_
 
