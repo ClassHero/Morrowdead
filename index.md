@@ -85,6 +85,17 @@ Super 7.62
 - Occasional hordes running around
 - You die once, you are dead (except if you bought RESURRECTION_STONE)
 
+### animals
+- frog
+- bird
+- bunny
+- deer
+- wolves
+
+### farms
+- plant seeds anywhere for them to grow
+- growth can be boosted with dirt humidifier
+
 ### pond
 - can fill up water bottles
 - can be used for fishing
