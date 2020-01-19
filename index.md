@@ -102,11 +102,11 @@ there has to be special fishes for fishing to be cool
 for testing purposes
 
 **commands**
-```
+
 _NUMBEROF_, _NUMBER_ should be between 1 and 100.
 _STATE_ should be ON or OFF.
 
 - SPAWN _numberof_ FISH
 - GIVE _number_ HEALTH
 - STAMINA INFINITE _state_
-```
+
